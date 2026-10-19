@@ -1,0 +1,13 @@
+# devmatei
+
+> Matei (devmatei). Full-stack developer from the Republic of Moldova building type-safe web apps, APIs, and open-source tools. Maintains make-a-wrapped, an open-source Wrapped generator for ListenBrainz, Last.fm, and Navidrome.
+
+## Key pages
+
+TO DO!!!!!!!!!!!!!!!
+
+## Optional
+
+- [Sitemap](https://devmatei.com/sitemap.xml): Full XML sitemap.
+- [GitHub](https://github.com/devmatei): All my public source code.
+- [Blog](https://blog.devmatei.com): Writing about code, tech, and homelabs.

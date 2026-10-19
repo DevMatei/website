@@ -13,4 +13,48 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    margin-bottom: 0.25px;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+.switcher {
+  display: flex;
+  gap: 4px;
+  margin-top: 2rem;
+}
+
+.switcher .button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #4a4660;
+  color: #e0def4;
+  text-decoration: none;
+  padding: 1.1rem 1.6rem;
+  border-radius: 6px;
+  transition: background 0.15s;
+}
+
+.switcher .button:hover {
+  background: #5b5776;
+}
+
+.switcher .button:first-child {
+  border-radius: 999px 6px 6px 999px;
+}
+
+.switcher .button:last-child {
+  border-radius: 6px 999px 999px 6px;
+}
+
+.switcher svg {
+  width: 1.1rem;
+  height: 1.1rem;
 }

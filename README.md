@@ -10,3 +10,4 @@ I do not hate AI or anything like that I just want to code by myself (AI will st
 
 Theme from: https://rosepinetheme.com/palette/  
 Some CSS from: https://github.com/iostpa/website 
+SVGs from: https://lucide.dev

@@ -1,0 +1,5 @@
+/llms.txt /public/llms.txt 200
+/robots.txt /public/robots.txt 200
+/sitemap.xml /public/sitemap.xml 200
+/README.md / 301
+/LICENSE / 301

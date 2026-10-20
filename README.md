@@ -5,12 +5,15 @@ Very simple and static website, this will replace my current one which was creat
 
 I do not hate AI or anything like that I just want to code by myself (AI will still be used for coding related questions)
 
-## Hosting
+## Preview/Hosting
 
-Will be hosted on netlify (I think), no public deployment currently. 
+Currently hosted on Cloudflare Pages
+
+https://new.devmatei.com/
 
 ## Credits:
 
 Theme from: https://rosepinetheme.com/palette/  
 Some CSS from: https://github.com/iostpa/website 
+Fonts from: https://fonts.google.com
 SVGs from: https://lucide.dev

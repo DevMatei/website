@@ -129,6 +129,12 @@ p {
   mask: var(--icon) no-repeat center / contain;
 }
 
+a,
+a:visited,
+a:hover,
+a:active {
+  color: #9f94f5; 
+}
 
 /* Icons next to links: */
 .content a { --icon: url("/assets/globe.svg"); } /* for most websites this should work */

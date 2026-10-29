@@ -198,3 +198,4 @@ a:active {
 .content a[href*="github.com"]     { --icon: url("/assets/github.svg"); } 
 .content a[href*="x.com"]     { --icon: url("/assets/x.svg"); }
 .content a[href*="mailto:"]     { --icon: url("/assets/mail.svg"); }
+.content a[href*="devmatei.com/blog"]     { --icon: url("/assets/book.svg"); }

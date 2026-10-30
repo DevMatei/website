@@ -9,7 +9,7 @@ I do not hate AI or anything like that I just want to code by myself (AI will st
 
 Currently hosted on Cloudflare Pages
 
-https://new.devmatei.com/
+https://devmatei.com/
 
 ## Credits:
 

@@ -193,6 +193,17 @@ a:active {
   opacity: .5; 
 }
 
+.divider {
+  width: 1px;
+  height: 2rem;
+  background: linear-gradient(
+    to bottom,
+    transparent,
+    rgba(255, 255, 255, 0.3),
+    transparent
+  );
+}
+
 /* Icons next to links: */
 .content a { --icon: url("/assets/globe.svg"); } /* for most websites this should work */
 .content a[href*="github.com"]     { --icon: url("/assets/github.svg"); } 
